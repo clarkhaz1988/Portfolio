@@ -10,7 +10,7 @@ This is a repository to showcase my skills through various projects. This reposi
    
     - Portfolio Projects
         - SQL
-          - NHTSA Data Exploration [download here](https://www.bestbuy.com/site/sony-playstation-5-slim-console-digital-edition-white/6566040.p?skuId=6566040)
+          - NHTSA Data Exploration
           
 
 
