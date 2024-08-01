@@ -11,7 +11,7 @@ This is a repository to showcase my skills through various projects. This reposi
    
 - Portfolio Projects
     
-  **SQL**
+  SQL
         
    - NHTSA Data Exploration 
           
@@ -19,7 +19,7 @@ This is a repository to showcase my skills through various projects. This reposi
           
    - Customer Data
 
-  **Tableau** 
+  Tableau
 
  Education
 
