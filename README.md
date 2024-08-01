@@ -6,11 +6,23 @@ Hi, My name is Chaz. I have an analytical background in manufacturing. For the l
 This is a repository to showcase my skills through various projects. This repository will be updated periodically as I gain new skills.
 
 ## Table of Contents
-    - About
+
+- About
    
-    - Portfolio Projects
-        - SQL
-          - NHTSA Data Exploration
+- Portfolio Projects
+    
+  **SQL**
+        
+      - NHTSA Data Exploration 
+          
+      - Customer Transactions
+          
+      - Customer Data
+
+  **Tableau** 
+
+
+
           
 
 
