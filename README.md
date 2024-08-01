@@ -13,13 +13,15 @@ This is a repository to showcase my skills through various projects. This reposi
     
   **SQL**
         
-      - NHTSA Data Exploration 
+   - NHTSA Data Exploration 
           
-      - Customer Transactions
+   - Customer Transactions
           
-      - Customer Data
+   - Customer Data
 
   **Tableau** 
+
+ Education
 
 
 
