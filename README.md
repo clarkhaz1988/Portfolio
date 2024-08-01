@@ -29,6 +29,17 @@ In this section I will briefly discuss analytical projects and the tools and tec
 
 **Code**: [NHTSA SQL Queries](https://github.com/clarkhaz1988/SQL-Query/blob/main/NHTSA%20SQL%20Queries.sql)
 
+**Goal**: Determine which models and equipment malfunctions are causing the most accidents.
+
+**Description**: This project used a dataset of traffic complaints from 2015-2019. The project involved cleaning, processing and analyzing data to determine the most frequent automotive component failures and manufacturers with malfunctions.
+
+**Skills**: Data Cleaning, Data analyzation
+
+**Technology**: Mysql, Excel
+
+**Results** "Electrical system failure" was the most common component failure and "Chrysler" had the most failures of any manufacturer.
+
+
 
 
 
