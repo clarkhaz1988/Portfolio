@@ -53,7 +53,7 @@ In this section I will briefly discuss analytical projects and the tools and tec
 
 **Technology**: Mysql, Excel
 
-**Results** "Chromecraft Bull-Nose Oval Conference Tables & Bases" was the least profitabe item and the furniture category had less revenue over a 4 year period than the other categories. 
+**Results**: "Chromecraft Bull-Nose Oval Conference Tables & Bases" was the least profitabe item and the furniture category had less revenue over a 4 year period than the other categories. 
 
 
 
