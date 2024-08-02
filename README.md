@@ -37,7 +37,7 @@ In this section I will briefly discuss analytical projects and the tools and tec
 
 **Technology**: Mysql, Excel
 
-**Results** "Electrical system failure" was the most common component failure and "Chrysler" had the most failures of any manufacturer.
+**Results**: "Electrical system failure" was the most common component failure and "Chrysler" had the most failures of any manufacturer.
  
 
 
