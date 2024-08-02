@@ -33,7 +33,7 @@ In this section I will briefly discuss analytical projects and the tools and tec
 
 **Description**: This project used a dataset of traffic complaints from 2015-2019. The project involved cleaning, processing and analyzing data to determine the most frequent automotive component failures and manufacturers with malfunctions.
 
-**Skills**: Data Cleaning, Data analyzation
+**Skills**: Data Cleaning, Data analyzation 
 
 **Technology**: Mysql, Excel
 
@@ -47,7 +47,14 @@ In this section I will briefly discuss analytical projects and the tools and tec
 
 **Goal**: Determine the least profitable products and categories to improve sales.
 
-**Description**:
+**Description**: This project used a dataset consisted of customer order data from different states.
+
+**Skills**: Data Cleaning, Data analyzation 
+
+**Technology**: Mysql, Excel
+
+**Results** "Chromecraft Bull-Nose Oval Conference Tables & Bases" was the least profitabe item and the furniture category had less revenue over a 4 year period than the other categories. 
+
 
 
 
