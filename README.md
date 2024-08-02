@@ -21,11 +21,11 @@ This is a repository to showcase my skills through various projects. This reposi
 
   Tableau
 
-## Portfolio Projects
+# Portfolio Projects
 
 In this section I will briefly discuss analytical projects and the tools and techniques I used.
 
-## ** Analyzing the Factors that Contribute to Traffic Malfunctions and Accidents in the U.S.
+## **Analyzing the Factors that Contribute to Traffic Malfunctions and Accidents in the U.S**.
 
 **Code**: [NHTSA SQL Queries](https://github.com/clarkhaz1988/SQL-Query/blob/main/NHTSA%20SQL%20Queries.sql)
 
@@ -38,6 +38,17 @@ In this section I will briefly discuss analytical projects and the tools and tec
 **Technology**: Mysql, Excel
 
 **Results** "Electrical system failure" was the most common component failure and "Chrysler" had the most failures of any manufacturer.
+ 
+
+
+## **Creating an overview to determine an action plan to increase revenue and sales** 
+
+**Code**: [Customer orders & transactions SQL Queries](https://github.com/clarkhaz1988/SQL-Query/blob/main/Customer%20Orders%20%26%20Transactions.sql)
+
+**Goal**: Determine the least profitable products and categories to improve sales.
+
+**Description**:
+
 
 
 
