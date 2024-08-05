@@ -41,7 +41,7 @@ In this section I will briefly discuss analytical projects and the tools and tec
  
 
 
-## **Creating an overview to determine an action plan to increase revenue and sales** 
+## **Creating an Overview To Determine an Action Plan to Increase Revenue and Sales** 
 
 **Code**: [Customer orders & transactions SQL Queries](https://github.com/clarkhaz1988/SQL-Query/blob/main/Customer%20Orders%20%26%20Transactions.sql)
 
