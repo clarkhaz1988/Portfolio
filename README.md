@@ -15,7 +15,7 @@ This is a repository to showcase my skills through various projects. This reposi
         
    - [NHTSA Data Exploration](https://github.com/clarkhaz1988/SQL-Query/tree/main#Analyzing-the-Factors-that-Contribute-to-Traffic-Malfunctions-and-Accidents-in-the-US)
           
-   - Customer Transactions
+   - [Customer Transactions](https://github.com/clarkhaz1988/SQL-Query/tree/main#Creating-an-overview-to-determine-an-action-plan-to-icrease-an-action-to-increase-revenue-and-sales)
           
    - Customer Data
 
