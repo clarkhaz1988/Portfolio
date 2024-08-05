@@ -51,7 +51,7 @@ In this section I will briefly discuss analytical projects and the tools and tec
 
 **Skills**: Data Cleaning, Data analyzation 
 
-**Technology**: Mysql, Excel
+**Technology**: Mysql, Excel,Tableau
 
 **Results**: "Chromecraft Bull-Nose Oval Conference Tables & Bases" was the least profitabe item and the furniture category had less revenue over a 4 year period than the other categories. 
 
@@ -60,6 +60,16 @@ In this section I will briefly discuss analytical projects and the tools and tec
 ## **Customer Purchasing Behavior**
 
 **Code**: [Customer Purchasing Beavior ](https://github.com/clarkhaz1988/SQL-Query/blob/main/Customer%20Behavior)
+
+**Goal**: To examine trends and tendency of customers to drive sales.
+
+**Description**: This dataset used customer data that includes demographics and purchasing details.
+
+**Skills**: Data Cleaning, Data analyzation
+
+**Technology**: Mysql, Excel,Tableau
+
+**Results**: 
 
 
 
