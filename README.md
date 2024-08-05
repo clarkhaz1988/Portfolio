@@ -7,7 +7,7 @@ This is a repository to showcase my skills through various projects. This reposi
 
 ## Table of Contents
 
-- About
+- [About](https://github.com/clarkhaz1988/SQL-Query/tree/main#about)
    
 - Portfolio Projects
     
