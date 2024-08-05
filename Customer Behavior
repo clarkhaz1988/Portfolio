@@ -1,0 +1,83 @@
+create database shopping
+;
+use shopping
+;
+select*
+from shopping
+;
+
+-- 1. Highest average rated item (aggregate)
+Select Item_purchased,avg(review_rating)
+From shopping
+group by item_purchased
+order by avg(review_rating) desc
+;
+
+-- 2. Rank of most common frequency of purchases (window function)
+Select gender,frequency_of_purchases,count(frequency_of_purchases),
+dense_rank()over(partition by gender order by count(frequency_of_purchases))
+from shopping
+group by gender,frequency_of_purchases
+;
+ 
+ 
+ -- from previous query with CTE
+with FOP_RANK as 
+(
+Select gender,frequency_of_purchases,count(frequency_of_purchases),
+dense_rank()over(partition by gender order by count(frequency_of_purchases)) as FOP
+from shopping
+group by gender,frequency_of_purchases
+)
+
+select gender, frequency_of_purchases,FOP
+From FOP_RANK
+where FOP= 1
+;
+
+-- 3. average purchase amount by age (aggregate)
+select age,round(avg(purchase_amount),2)
+From shopping
+group by age
+order by age asc
+;
+
+-- 4. Percentage that used discount (subquery)
+select
+(select count(discount_applied)
+from shopping
+where discount_applied = "yes"
+)
+/
+(select Count(discount_applied)
+from shopping
+)*100 as percentage_yes
+;
+
+-- 5. percentage that didn't use discount (subquery)
+
+select
+(select count(discount_applied)
+from shopping
+where discount_applied = "no"
+)
+/
+(select Count(discount_applied)
+from shopping
+)*100 as percentage_no
+;
+
+-- 6. Total purchase amount by gender (aggregate)
+select gender, sum(purchase_amount)
+From shopping
+group by gender
+;
+ 
+ -- 7. total purchase amount by state (aggregate)
+select location, sum(purchase_amount)as sales, category
+From shopping
+group by location, category
+order by sales desc
+;
+
+
