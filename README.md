@@ -57,7 +57,9 @@ In this section I will briefly discuss analytical projects and the tools and tec
 
 
 
-## **Customer purchasing behavior**
+## **Customer Purchasing Behavior**
+
+**Code**: [Customer Purchasing Beavior ](https://github.com/clarkhaz1988/SQL-Query/blob/main/Customer%20Behavior)
 
 
 
