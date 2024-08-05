@@ -25,7 +25,7 @@ This is a repository to showcase my skills through various projects. This reposi
 
 In this section I will briefly discuss analytical projects and the tools and techniques I used.
 
-## **Analyzing the Factors that Contribute to Traffic Malfunctions and Accidents in the U.S**.
+## **Analyzing the Factors that Contribute to Traffic Malfunctions and Accidents in the US**.
 
 **Code**: [NHTSA SQL Queries](https://github.com/clarkhaz1988/SQL-Query/blob/main/NHTSA%20SQL%20Queries.sql)
 
