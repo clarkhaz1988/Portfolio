@@ -9,7 +9,7 @@ This is a repository to showcase my skills through various projects. This reposi
 
 - [About](https://github.com/clarkhaz1988/SQL-Query/tree/main#about)
    
-- [Portfolio Projects](https://github.com/clarkhaz1988/SQL-Query/tree/main#portfolio-project)
+- [Portfolio Projects](https://github.com/clarkhaz1988/SQL-Query/tree/main#portfolio-projects)
     
   SQL
         
