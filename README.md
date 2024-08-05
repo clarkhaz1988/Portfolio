@@ -69,7 +69,7 @@ In this section I will briefly discuss analytical projects and the tools and tec
 
 **Technology**: Mysql, Excel,Tableau
 
-**Results**: 
+**Results**: Majority of customers dont' use coupons. Men and Women order products at the same rate. The older the age is the more money they spend per purchase.
 
 
 
