@@ -21,7 +21,7 @@ This is a repository to showcase my skills through various projects. This reposi
 
   - Tableau -->[go to Tableau](https://public.tableau.com/app/profile/chaz.clark/vizzes)
  
-  - [Education](https://github.com/clarkhaz1988/SQL-Query/edit/main/README.md#Education)
+  - [Education](https://github.com/clarkhaz1988/SQL-Query/tree/main#Education)
 
 # Portfolio Projects
 
