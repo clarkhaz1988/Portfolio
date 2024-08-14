@@ -76,6 +76,7 @@ In this section I will briefly discuss analytical projects and the tools and tec
 ## Education
 
 Wichita State Univerity : Business Management (2016-2019)
+
 Google Data Analytics Certificate (2023)
 
 
