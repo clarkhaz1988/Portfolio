@@ -17,7 +17,7 @@ This is a repository to showcase my skills through various projects. This reposi
           
    - [Customer Transactions](https://github.com/clarkhaz1988/SQL-Query/tree/main#Creating-an-Overview-to-Determine-an-Action-Plan-to-Increase-Revenue-and-Sales)
           
-   - [Customer Data](https://github.com/clarkhaz1988/SQL-Query/tree/main#
+   - [Customer Data](https://github.com/clarkhaz1988/SQL-Query/tree/main#)
 
   Tableau
 
