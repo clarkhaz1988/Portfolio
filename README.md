@@ -19,7 +19,7 @@ This is a repository to showcase my skills through various projects. This reposi
           
    - [Customer Data](https://github.com/clarkhaz1988/SQL-Query/tree/main#)
 
-  Tableau
+  - Tableau -->[go to Tableau](https://public.tableau.com/app/profile/chaz.clark/vizzes)
 
 # Portfolio Projects
 
