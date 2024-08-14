@@ -43,7 +43,7 @@ In this section I will briefly discuss analytical projects and the tools and tec
 
 ## **Creating an Overview To Determine an Action Plan to Increase Revenue and Sales** 
 
-**Code**: [Customer orders & transactions SQL Queries](https://github.com/clarkhaz1988/SQL-Query/blob/main/Customer%20Orders%20%26%20Transactions.sql)
+**Code**: [Customer Orders & Transactions SQL Queries](https://github.com/clarkhaz1988/SQL-Query/blob/main/Customer%20Orders%20%26%20Transactions.sql)
 
 **Goal**: Determine the least profitable products and categories to improve sales.
 
