@@ -20,6 +20,8 @@ This is a repository to showcase my skills through various projects. This reposi
    - [Customer Data](https://github.com/clarkhaz1988/SQL-Query/tree/main#)
 
   - Tableau -->[go to Tableau](https://public.tableau.com/app/profile/chaz.clark/vizzes)
+ 
+  - [Education](https://github.com/clarkhaz1988/SQL-Query/edit/main/README.md#Education)
 
 # Portfolio Projects
 
@@ -71,6 +73,10 @@ In this section I will briefly discuss analytical projects and the tools and tec
 
 **Results**: Majority of customers dont' use coupons. Men and Women order products at the same rate. The older the age is the more money they spend per purchase.
 
+## Education
+
+Wichita State Univerity : Business Management (2016-2019)
+Google Data Analytics Certificate (2023)
 
 
 
